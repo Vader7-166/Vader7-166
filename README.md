@@ -1,6 +1,8 @@
 <!-- README for Geppetto (Tran Duy Hung) -->
 
-<h1 align="center">Hi there 👋, I'm Geppetto</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi there 👋, I'm Geppetto&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h3 align="center">aka Tran Duy Hung — IT Student at UTC</h3>
 
 <p align="center">
