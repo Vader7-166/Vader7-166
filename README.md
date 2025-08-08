@@ -1,13 +1,15 @@
 <!-- README for Geppetto (Tran Duy Hung) -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi there 👋, I'm Geppetto&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h1 align="center">Hi there 👋, I'm Geppetto</h1>
 <h3 align="center">aka Tran Duy Hung — IT Student at UTC</h3>
 
 <p align="center">
   🚀 Passionate about learning, building, and dreaming of early retirement.<br>
   💻 Currently diving into fullstack development & mobile apps.
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZmN2liaWZxM2xuY3J5MmE3ZjRjbDk0cGcxaDI3dHJmbTE1aTVuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7guVjhMF9qBKE/giphy.gif" width="600"/>
 </p>
 
 ---
