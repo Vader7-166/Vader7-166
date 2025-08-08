@@ -1,6 +1,6 @@
 <!-- README for Geppetto (Tran Duy Hung) -->
 
-<h1 align="center">Hi there 👋, I'm Geppetto</h1>
+<h1 align="center">Hi there 👋, I'm Vader</h1>
 <h3 align="center">aka Tran Duy Hung — IT Student at UTC</h3>
 
 <p align="center">
