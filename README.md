@@ -5,7 +5,6 @@
 
 <p align="center">
   🚀 Passionate about learning, building, and dreaming of early retirement.<br>
-  💻 Currently diving into fullstack development & mobile apps.
 </p>
 
 <p align="center">
