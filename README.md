@@ -1,16 +1,10 @@
 <!-- README for Geppetto (Tran Duy Hung) -->
 
-<h1 align="center">Hi there 👋, I'm Vader</h1>
-<h3 align="center">aka Tran Duy Hung — IT Student at UTC</h3>
-
+<h1 align="center">Hi there 👋, I'm Tran Duy Hung - IT Student at UTC<</h1>
 <p align="center">
   🚀 Passionate about learning, building, and dreaming of early retirement.<br>
 </p>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZmN2liaWZxM2xuY3J5MmE3ZjRjbDk0cGcxaDI3dHJmbTE1aTVuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7guVjhMF9qBKE/giphy.gif" width="600"/>
-</p>
-
+  
 ---
 
 ### 🧠 About Me
