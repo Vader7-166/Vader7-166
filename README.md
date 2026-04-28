@@ -1,37 +1,17 @@
 <!-- README for Geppetto (Tran Duy Hung) -->
 
-<h1 align="center">Hi there 👋, I'm Tran Duy Hung</h1>
+<h1 align="center">Hi there, I'm Tran Duy Hung</h1>
 <p align="center">
-  🚀 Passionate about learning, building, and dreaming of early retirement.<br>
+  Passionate about learning, building, and dreaming of early retirement.<br>
 </p>
   
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 I'm currently an IT student at UTC. (University of Transport and Communications)
-- 🧩 I love problem-solving, making side-projects, and exploring new technologies  
-- 🐍 Favorite language: Python  
-- 🧰 Currently learning Flutter & Node.js
-
----
-
-### 🚀 Languages and Tools
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</p>
+- I'm currently an IT student at UTC. (University of Transport and Communications)
+- I love problem-solving, making side-projects, and exploring new technologies  
+- Favorite language: Python 
 
 ---
 
@@ -40,7 +20,7 @@
 </p>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>My GitHub Stats</summary>
 <br>
 
 <p align="center">
@@ -52,7 +32,7 @@
 
 ---
 
-### ✨ Motto
+### Motto
 
 > **Learn. Share. Build. Retire early.**
 
